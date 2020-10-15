@@ -1,0 +1,1 @@
+print('yesterday\ntoday\ntomorrow')
